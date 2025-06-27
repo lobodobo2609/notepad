@@ -1,2 +1,2 @@
 # notepad
-notepad to type stuff in
+notepad to type stuff into
