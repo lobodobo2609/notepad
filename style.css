@@ -19,7 +19,7 @@ textarea {
   height: 100%;
   padding: 20px;
   box-sizing: border-box;
-  caret-color: transparent;
+  caret-color: #ffff;
 }
 
 /* Hide scrollbar (for Chrome, Firefox, Edge) */
