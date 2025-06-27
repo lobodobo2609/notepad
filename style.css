@@ -9,7 +9,7 @@ html, body {
 
 textarea {
   background: black;
-  color: #00ff00;
+  color: #ffff;
   border: none;
   resize: none;
   outline: none;
@@ -19,7 +19,7 @@ textarea {
   height: 100%;
   padding: 20px;
   box-sizing: border-box;
-  caret-color: #00ff00;
+  caret-color: #ffff;
 }
 
 /* Hide scrollbar (for Chrome, Firefox, Edge) */
